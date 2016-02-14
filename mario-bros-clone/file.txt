@@ -1,0 +1,4 @@
+Error | LoadSurface(...) >> SDL Error: Couldn't open resources/test-bmp.bmp
+.Error | LoadSurface(...) >> Failed to load file. Is the file a BMP? Returning NULL.
+Error | LoadMedia(...) >> Failed to load demoSurfaceStruct.
+Error | main(...) >> Failed to load media properly. Terminating.
